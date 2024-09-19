@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Heungkyu Lee</h1>
-<h3 align="center">A passionate frontend developer from South Korea.</h3>
+<h1 align="left">Hi 👋, I'm Heungkyu Lee</h1>
+<h3 align="left">A passionate frontend developer from South Korea.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heungkyulee&label=Profile%20views&color=0e75b6&style=flat" alt="heungkyulee" /> </p>
 
