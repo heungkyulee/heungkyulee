@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heungkyulee&label=Profile%20views&color=0e75b6&style=flat" alt="heungkyulee" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heungkyulee" alt="heungkyulee" /></a> </p>
+- 🔭 I’m currently working on **ChnoAI**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 💬 Ask me about **React, React Native, NodeJS, Selenium and RDBMS**
+
+- 📫 How to reach me **dream1356@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heungkyulee&show_icons=true&locale=en&layout=compact" alt="heungkyulee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heungkyulee&show_icons=true&locale=en" alt="heungkyulee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heungkyulee&" alt="heungkyulee" /></p>
